@@ -1,0 +1,416 @@
+.image1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1453px;
+  height: 1816px;
+  object-fit: cover;
+}
+.signUpChild {
+  position: absolute;
+  top: 83px;
+  left: 163px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow-200);
+  width: 1131px;
+  height: 859px;
+}
+.linesIcon,
+.yourCoverIcon {
+  position: absolute;
+  top: 0;
+  left: -100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linesIcon {
+  height: 100%;
+  width: 100%;
+  right: 100%;
+  bottom: 0;
+  opacity: 0.7;
+}
+.yourCoverIcon {
+  height: 248.63%;
+  width: 254.77%;
+  right: -54.77%;
+  bottom: -148.63%;
+}
+.maximumFileSize,
+.zoomBackrounds {
+  position: absolute;
+  top: -212px;
+  left: 0;
+  font-size: var(--pos-titles-h2-light-size);
+  line-height: 40px;
+  font-weight: 300;
+  font-family: var(--pos-titles-h1);
+}
+.zoomBackrounds {
+  top: -276px;
+  font-size: var(--pos-titles-h1-size);
+  font-weight: 500;
+}
+.trianglesIcon {
+  position: absolute;
+  top: -633.06px;
+  left: 4821.49px;
+  width: 3796.08px;
+  height: 1444.93px;
+  display: none;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 10.28%;
+  width: 8.2%;
+  top: 26.94%;
+  right: 182%;
+  bottom: 62.78%;
+  left: -90.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 6.3%;
+  width: 3.69%;
+  top: 5.33%;
+  right: 191.82%;
+  bottom: 88.36%;
+  left: -95.51%;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  position: absolute;
+  height: 6.55%;
+  width: 2.99%;
+  top: 80.19%;
+  right: 116.39%;
+  bottom: 13.26%;
+  left: -19.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  height: 5.51%;
+  width: 3.79%;
+  top: 3.71%;
+  right: 156.77%;
+  bottom: 90.78%;
+  left: -60.56%;
+}
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  top: 61.85%;
+  right: 109.32%;
+  bottom: 32.63%;
+  left: -13.11%;
+}
+.vectorIcon5,
+.vectorIcon6 {
+  height: 5.48%;
+  width: 2.78%;
+  top: 7.34%;
+  right: 171.99%;
+  bottom: 87.18%;
+  left: -74.77%;
+}
+.vectorIcon6 {
+  height: 3.99%;
+  width: 2.08%;
+  top: 85.03%;
+  right: 102.92%;
+  bottom: 10.98%;
+  left: -5%;
+}
+.signUp1 {
+  position: absolute;
+  top: 99px;
+  left: 671px;
+  font-size: 65px;
+  font-weight: 600;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.span {
+  color: var(--color-black);
+}
+.span1 {
+  color: var(--color-darkred-200);
+}
+.password,
+.phoneNumbersContainer {
+  position: absolute;
+  top: 255px;
+  left: 922px;
+  font-weight: 600;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  color: var(--color-gray-700);
+}
+.password {
+  top: 303px;
+  left: 868px;
+}
+.zoomVirtualBg2GraphicsonlyChild,
+.zoomVirtualBg2GraphicsonlyItem {
+  position: absolute;
+  top: 278.5px;
+  left: 362.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 393px;
+  height: 1px;
+}
+.zoomVirtualBg2GraphicsonlyItem {
+  top: 326.5px;
+}
+.company {
+  position: absolute;
+  top: 457px;
+  left: 868px;
+  font-weight: 600;
+  color: var(--color-gray-700);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.zoomVirtualBg2GraphicsonlyInner {
+  position: absolute;
+  top: 480.5px;
+  left: 362.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 393px;
+  height: 1px;
+}
+.reEnterPasswordContainer {
+  position: absolute;
+  top: 351px;
+  left: 948px;
+  font-weight: 600;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.lineDiv {
+  position: absolute;
+  top: 374.5px;
+  left: 362.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 393px;
+  height: 1px;
+}
+.eMailAddress {
+  position: absolute;
+  top: 505px;
+  left: 910px;
+  font-weight: 600;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.zoomVirtualBg2GraphicsonlyChild1 {
+  position: absolute;
+  top: 528.5px;
+  left: 362.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 393px;
+  height: 1px;
+}
+.address,
+.country {
+  position: absolute;
+  top: 551px;
+  left: 853px;
+  font-weight: 600;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.address {
+  top: 601px;
+}
+.zoomVirtualBg2GraphicsonlyChild2,
+.zoomVirtualBg2GraphicsonlyChild3 {
+  position: absolute;
+  top: 624.5px;
+  left: 362.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 393px;
+  height: 1px;
+}
+.zoomVirtualBg2GraphicsonlyChild3 {
+  top: 668.5px;
+}
+.surname {
+  top: 399px;
+  left: 861px;
+  font-weight: 600;
+}
+.firstName,
+.rectangleDiv,
+.surname,
+.vietnam {
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.rectangleDiv {
+  top: 549px;
+  left: 755px;
+  border-radius: 8px;
+  background: linear-gradient(268.86deg, #d9d9d9, rgba(217, 217, 217, 0));
+  width: 287px;
+  height: 33px;
+}
+.firstName,
+.vietnam {
+  top: 395px;
+  left: 730px;
+  font-weight: 600;
+  color: var(--color-gray-900);
+}
+.vietnam {
+  top: 553px;
+  left: 729px;
+  color: var(--color-gray-800);
+}
+.lineIcon {
+  position: absolute;
+  top: 422.5px;
+  left: -755px;
+  width: 276px;
+  height: 1px;
+}
+.lastName {
+  position: absolute;
+  top: 395px;
+  left: 428px;
+  font-weight: 600;
+  color: var(--color-gray-900);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.zoomVirtualBg2GraphicsonlyChild4 {
+  position: absolute;
+  top: 422.5px;
+  left: -453px;
+  width: 276px;
+  height: 1px;
+}
+.yourPhoneNumbers {
+  position: absolute;
+  top: 260px;
+  left: 352px;
+  font-size: var(--font-size-xs);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.passwordMustBe {
+  margin: 0;
+}
+.passwordMustBeContainer {
+  position: absolute;
+  top: 297px;
+  left: 352px;
+  font-size: var(--font-size-xs);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.iconChevronDown {
+  position: absolute;
+  height: 1.37%;
+  width: 1.92%;
+  top: 65.44%;
+  right: 142.54%;
+  bottom: 33.19%;
+  left: -44.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.zoomVirtualBg2Graphicsonly {
+  position: absolute;
+  top: 83px;
+  left: 1294px;
+  border-radius: var(--br-xl);
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 1131px;
+  height: 859px;
+  overflow: hidden;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-xl);
+}
+.leafIcon {
+  position: absolute;
+  top: 117px;
+  left: 172px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.yolofarm {
+  position: absolute;
+  top: 122px;
+  left: 212px;
+  color: var(--color-forestgreen);
+}
+.signUpItem {
+  position: absolute;
+  top: 793px;
+  left: 539px;
+  border-radius: var(--br-3xs);
+  width: 193px;
+  height: 44px;
+}
+.creatAnAccount {
+  position: absolute;
+  top: 803px;
+  left: 529px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  display: inline-block;
+  color: var(--color-snow-100);
+  text-align: center;
+  width: 214px;
+  height: 60px;
+  cursor: pointer;
+}
+.signIn {
+  color: var(--color-firebrick);
+}
+.alreadyHaveAnContainer {
+  position: absolute;
+  top: 274px;
+  left: 613px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  display: inline-block;
+  text-align: center;
+  width: 223px;
+  height: 32px;
+  cursor: pointer;
+}
+.signUp {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

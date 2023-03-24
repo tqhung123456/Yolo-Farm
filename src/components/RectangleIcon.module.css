@@ -1,0 +1,9 @@
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 193px;
+  height: 44px;
+  cursor: pointer;
+}

@@ -1,0 +1,1219 @@
+.image1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1453px;
+  height: 1816px;
+  object-fit: cover;
+}
+.irrigationChild {
+  position: absolute;
+  top: 82px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow-200);
+  width: 1339px;
+  height: 859px;
+}
+.seeMore,
+.seeMore1,
+.seeMore2 {
+  position: absolute;
+  top: 630px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-firebrick-100);
+}
+.seeMore1,
+.seeMore2 {
+  top: 688px;
+  color: var(--color-olive-100);
+}
+.seeMore2 {
+  top: 747px;
+}
+.updateNow {
+  top: 804px;
+  font-weight: 600;
+  color: var(--color-darkmagenta-100);
+}
+.i,
+.i1,
+.i2,
+.i3,
+.i4,
+.seeMore3,
+.updateNow {
+  position: absolute;
+  left: 1133px;
+  font-family: var(--font-roboto);
+}
+.seeMore3 {
+  top: 862px;
+  font-weight: 600;
+  color: var(--color-lightseagreen);
+}
+.i,
+.i1,
+.i2,
+.i3,
+.i4 {
+  top: 614px;
+}
+.i1,
+.i2,
+.i3,
+.i4 {
+  top: 671px;
+}
+.i2,
+.i3,
+.i4 {
+  top: 731px;
+}
+.i3,
+.i4 {
+  top: 788px;
+}
+.i4 {
+  top: 846px;
+}
+.irrigationItem {
+  position: absolute;
+  top: 833px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-lightseagreen);
+  width: 38px;
+  height: 38px;
+}
+.moistureIsHigher {
+  position: absolute;
+  top: 834px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.cloudDrizzleIcon {
+  position: absolute;
+  top: 840px;
+  left: 1089px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.irrigationInner {
+  position: absolute;
+  top: 394px;
+  left: 1150px;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(233.53deg, #003eb8, rgba(62, 125, 249, 0));
+  width: 160px;
+  height: 33px;
+}
+.manualIrrigating {
+  position: absolute;
+  top: 400px;
+  left: 1172px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: var(--color-gray-600);
+  text-align: center;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 499px;
+  left: 1150px;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(233.53deg, #dd7802, rgba(62, 125, 249, 0));
+  width: 160px;
+  height: 33px;
+}
+.manualHeating {
+  position: absolute;
+  top: 505px;
+  left: 1177px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: var(--color-gray-600);
+  text-align: center;
+}
+.irrigationChild1 {
+  position: absolute;
+  top: 446px;
+  left: 1150px;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(233.53deg, #06a11f, rgba(62, 125, 249, 0));
+  width: 160px;
+  height: 33px;
+}
+.manualLighting,
+.notifications {
+  position: absolute;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.manualLighting {
+  top: 452px;
+  left: 1177px;
+  font-size: var(--font-size-mid);
+  font-weight: 700;
+  color: var(--color-gray-600);
+}
+.notifications {
+  top: 567px;
+  left: 1082px;
+  font-size: var(--font-size-mini);
+}
+.iconBell {
+  position: absolute;
+  height: 2.12%;
+  width: 1.37%;
+  top: 55.24%;
+  right: 5.87%;
+  bottom: 42.64%;
+  left: 92.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.irrigationChild2 {
+  position: absolute;
+  top: 601px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-firebrick-100);
+  width: 38px;
+  height: 38px;
+}
+.noResponseFrom {
+  position: absolute;
+  top: 602px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.irrigationChild3 {
+  position: absolute;
+  top: 659px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-olive-100);
+  width: 38px;
+  height: 38px;
+}
+.abnormalityDetected {
+  position: absolute;
+  top: 660px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.alertOctagonIcon {
+  position: absolute;
+  top: 665px;
+  left: 1088px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.irrigationChild4 {
+  position: absolute;
+  top: 718px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-olive-100);
+  width: 38px;
+  height: 38px;
+}
+.abnormalityDetected1 {
+  position: absolute;
+  top: 719px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.alertOctagonIcon1 {
+  position: absolute;
+  top: 724px;
+  left: 1088px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.irrigationChild5 {
+  position: absolute;
+  top: 775px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-darkmagenta-200);
+  width: 38px;
+  height: 38px;
+}
+.aNewUpdate {
+  position: absolute;
+  top: 776px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.arrowUpCircleIcon,
+.iconMapPin,
+.wifiOffIcon {
+  position: absolute;
+  top: 781px;
+  left: 1088px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.iconMapPin,
+.wifiOffIcon {
+  top: 608px;
+  left: 1089px;
+  width: 24px;
+  height: 24px;
+}
+.iconMapPin {
+  height: 1.5%;
+  width: 0.89%;
+  top: 34.6%;
+  right: 17.21%;
+  bottom: 63.9%;
+  left: 81.9%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.irrigationChild6 {
+  position: absolute;
+  top: 252px;
+  left: 234px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-forestgreen);
+  width: 80px;
+  height: 40px;
+}
+.irrigationChild7 {
+  position: absolute;
+  top: 82px;
+  left: 238px;
+  background-color: var(--color-aliceblue);
+  width: 832px;
+  height: 859px;
+}
+.irrigationChild8 {
+  position: absolute;
+  top: 176px;
+  left: 265px;
+  border-radius: var(--br-smi);
+  background: linear-gradient(220.98deg, #a9c5fc, rgba(169, 197, 252, 0));
+  width: 774px;
+  height: 316px;
+}
+.graph {
+  position: absolute;
+  top: 196px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.lineChartChild {
+  position: absolute;
+  top: 8.07px;
+  left: 3.04px;
+  width: 720.98px;
+  height: 260.55px;
+}
+.xAxisGridIcon,
+.xAxisGridIcon1,
+.xAxisGridIcon2 {
+  position: absolute;
+  top: 8.07px;
+  left: 28.22px;
+  width: 1px;
+  height: 234.9px;
+}
+.xAxisGridIcon1,
+.xAxisGridIcon2 {
+  left: 75.7px;
+}
+.xAxisGridIcon2 {
+  left: 124.16px;
+}
+.xAxisGridIcon3,
+.xAxisGridIcon4,
+.xAxisGridIcon5,
+.xAxisGridIcon6 {
+  position: absolute;
+  top: 8.07px;
+  left: 171.64px;
+  width: 1px;
+  height: 234.9px;
+}
+.xAxisGridIcon4,
+.xAxisGridIcon5,
+.xAxisGridIcon6 {
+  left: 220.09px;
+}
+.xAxisGridIcon5,
+.xAxisGridIcon6 {
+  left: 267.58px;
+}
+.xAxisGridIcon6 {
+  left: 316.03px;
+}
+.xAxisGridIcon10,
+.xAxisGridIcon7,
+.xAxisGridIcon8,
+.xAxisGridIcon9 {
+  position: absolute;
+  top: 8.07px;
+  left: 363.51px;
+  width: 1px;
+  height: 234.9px;
+}
+.xAxisGridIcon10,
+.xAxisGridIcon8,
+.xAxisGridIcon9 {
+  left: 411.96px;
+}
+.xAxisGridIcon10,
+.xAxisGridIcon9 {
+  left: 459.45px;
+}
+.xAxisGridIcon10 {
+  left: 506.93px;
+}
+.xAxisGridIcon11,
+.xAxisGridIcon12,
+.xAxisGridIcon13,
+.xAxisGridIcon14 {
+  position: absolute;
+  top: 8.07px;
+  left: 555.38px;
+  width: 1px;
+  height: 234.9px;
+}
+.xAxisGridIcon12,
+.xAxisGridIcon13,
+.xAxisGridIcon14 {
+  left: 602.87px;
+}
+.xAxisGridIcon13,
+.xAxisGridIcon14 {
+  left: 651.32px;
+}
+.xAxisGridIcon14 {
+  left: 698.81px;
+}
+.yAxisGridIcon,
+.yAxisGridIcon1,
+.yAxisGridIcon2,
+.yAxisGridIcon3 {
+  position: absolute;
+  top: 243.15px;
+  left: 29.2px;
+  width: 694.81px;
+  height: 1px;
+}
+.yAxisGridIcon1,
+.yAxisGridIcon2,
+.yAxisGridIcon3 {
+  top: 164.84px;
+}
+.yAxisGridIcon2,
+.yAxisGridIcon3 {
+  top: 86.54px;
+}
+.yAxisGridIcon3 {
+  top: 6.89px;
+}
+.div,
+.div1,
+.div10,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 251.97px;
+  left: 50.15px;
+  display: inline-block;
+  width: 51.67px;
+  height: 17.15px;
+}
+.div1,
+.div10,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 147.4px;
+}
+.div10,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 243.14px;
+}
+.div10,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 337.35px;
+}
+.div10,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 434.61px;
+}
+.div10,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 528.82px;
+}
+.div10,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 626.08px;
+}
+.div10,
+.div7,
+.div8,
+.div9 {
+  top: 236.22px;
+  left: 13.7px;
+  text-align: right;
+  width: 5.81px;
+  height: 16.2px;
+}
+.div10,
+.div8,
+.div9 {
+  top: 158.31px;
+  left: 0;
+  width: 21.27px;
+  height: 15.83px;
+}
+.div10,
+.div9 {
+  top: 80.47px;
+}
+.div10 {
+  top: 0;
+}
+.lineIcon {
+  position: absolute;
+  top: 88.5px;
+  left: 28.23px;
+  width: 696.52px;
+  height: 150.77px;
+}
+.markerIcon,
+.markerIcon1 {
+  position: absolute;
+  top: 152.52px;
+  left: 25.33px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon1 {
+  top: 94.47px;
+  left: 48.58px;
+}
+.markerIcon2,
+.markerIcon3,
+.markerIcon4,
+.markerIcon5 {
+  position: absolute;
+  top: 149.82px;
+  left: 72.81px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon3,
+.markerIcon4,
+.markerIcon5 {
+  top: 110.67px;
+  left: 97.04px;
+}
+.markerIcon4,
+.markerIcon5 {
+  top: 172.77px;
+  left: 120.3px;
+}
+.markerIcon5 {
+  top: 98.52px;
+  left: 144.52px;
+}
+.markerIcon6,
+.markerIcon7,
+.markerIcon8,
+.markerIcon9 {
+  position: absolute;
+  top: 159.27px;
+  left: 168.75px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon7,
+.markerIcon8,
+.markerIcon9 {
+  top: 233.52px;
+  left: 192.97px;
+}
+.markerIcon8,
+.markerIcon9 {
+  top: 145.77px;
+  left: 216.23px;
+}
+.markerIcon9 {
+  top: 217.32px;
+  left: 240.46px;
+}
+.markerIcon10,
+.markerIcon11,
+.markerIcon12,
+.markerIcon13 {
+  position: absolute;
+  top: 83.67px;
+  left: 264.68px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon11,
+.markerIcon12,
+.markerIcon13 {
+  top: 191.67px;
+  left: 287.94px;
+}
+.markerIcon12,
+.markerIcon13 {
+  top: 197.07px;
+  left: 312.17px;
+}
+.markerIcon13 {
+  top: 206.52px;
+  left: 336.39px;
+}
+.markerIcon14,
+.markerIcon15,
+.markerIcon16,
+.markerIcon17 {
+  position: absolute;
+  top: 194.37px;
+  left: 360.62px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon15,
+.markerIcon16,
+.markerIcon17 {
+  top: 136.32px;
+  left: 383.88px;
+}
+.markerIcon16,
+.markerIcon17 {
+  top: 163.32px;
+  left: 408.1px;
+}
+.markerIcon17 {
+  top: 120.12px;
+  left: 432.33px;
+}
+.markerIcon18,
+.markerIcon19,
+.markerIcon20,
+.markerIcon21 {
+  position: absolute;
+  top: 209.22px;
+  left: 456.56px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon19,
+.markerIcon20,
+.markerIcon21 {
+  top: 101.22px;
+  left: 479.81px;
+}
+.markerIcon20,
+.markerIcon21 {
+  top: 184.92px;
+  left: 504.04px;
+}
+.markerIcon21 {
+  top: 149.82px;
+  left: 528.27px;
+}
+.markerIcon22,
+.markerIcon23,
+.markerIcon24,
+.markerIcon25 {
+  position: absolute;
+  top: 93.12px;
+  left: 551.52px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon23,
+.markerIcon24,
+.markerIcon25 {
+  top: 128.22px;
+  left: 575.75px;
+}
+.markerIcon24,
+.markerIcon25 {
+  top: 225.42px;
+  left: 599.98px;
+}
+.markerIcon25 {
+  top: 210.57px;
+  left: 624.2px;
+}
+.markerIcon26,
+.markerIcon27,
+.markerIcon28,
+.markerIcon29 {
+  position: absolute;
+  top: 217.32px;
+  left: 647.46px;
+  width: 7.75px;
+  height: 10.8px;
+}
+.markerIcon27,
+.markerIcon28,
+.markerIcon29 {
+  top: 159.27px;
+  left: 671.69px;
+}
+.markerIcon28,
+.markerIcon29 {
+  top: 129.57px;
+  left: 695.91px;
+}
+.markerIcon29 {
+  top: 145.77px;
+  left: 720.14px;
+}
+.lineChart,
+.michaelJackson {
+  position: absolute;
+  text-align: center;
+}
+.lineChart {
+  top: 222.88px;
+  left: 279px;
+  width: 727.89px;
+  height: 269.12px;
+  font-family: var(--font-roboto);
+}
+.michaelJackson {
+  top: 303px;
+  left: 1173px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-300);
+}
+.irrigationChild9 {
+  position: absolute;
+  top: 511px;
+  left: 798px;
+  border-radius: var(--br-smi);
+  background: linear-gradient(202.7deg, #dbd7d7, rgba(219, 215, 215, 0));
+  width: 241px;
+  height: 413px;
+}
+.noRecentActivity {
+  position: absolute;
+  top: 707px;
+  left: 862px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-900);
+  text-align: center;
+}
+.irrigationChild10 {
+  position: absolute;
+  top: 510px;
+  left: 265px;
+  border-radius: var(--br-smi);
+  background: linear-gradient(233.73deg, #f1baba, rgba(252, 155, 155, 0));
+  width: 511px;
+  height: 413px;
+}
+.information {
+  position: absolute;
+  top: 525px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.soilMoisture {
+  top: 558px;
+  left: 299px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.irrigatingMode,
+.mlm3,
+.soilMoisture {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.mlm3 {
+  top: 558px;
+  left: 586px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.irrigatingMode {
+  top: 600px;
+  left: 299px;
+}
+.automatic,
+.irrigatingMode,
+.scheduledTime {
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.automatic {
+  position: absolute;
+  top: 600px;
+  left: 586px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.scheduledTime {
+  top: 642px;
+  left: 300px;
+}
+.none,
+.scheduledTime,
+.upperThreshold {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.none {
+  top: 642px;
+  left: 587px;
+  font-weight: 600;
+  color: var(--color-gray-400);
+}
+.upperThreshold {
+  top: 683px;
+  left: 299px;
+}
+.lowerThreshold,
+.mlm31,
+.upperThreshold {
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.mlm31 {
+  position: absolute;
+  top: 683px;
+  left: 586px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.lowerThreshold {
+  top: 726px;
+  left: 299px;
+}
+.irrigatingTimesLast,
+.lowerThreshold,
+.mlm32 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.mlm32 {
+  top: 726px;
+  left: 586px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.irrigatingTimesLast {
+  top: 769px;
+  left: 299px;
+}
+.irrigatingTimesLast,
+.mostRecentIrrigating,
+.times {
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.times {
+  position: absolute;
+  top: 769px;
+  left: 586px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.mostRecentIrrigating {
+  top: 810px;
+  left: 300px;
+}
+.good,
+.i5,
+.moistureCondition,
+.mostRecentIrrigating {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.moistureCondition {
+  top: 852px;
+  left: 299px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.good,
+.i5 {
+  left: 586px;
+}
+.good {
+  top: 850px;
+  font-weight: 800;
+  color: #029408;
+}
+.i5 {
+  top: 810px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.avatarsIcon,
+.avatarsIcon1 {
+  position: absolute;
+  top: 116px;
+  left: 1317px;
+  width: 28px;
+  height: 28px;
+}
+.avatarsIcon1 {
+  top: 178px;
+  left: 1173px;
+  width: 113px;
+  height: 113px;
+}
+.iconHelpCircle {
+  height: 1.97%;
+  width: 1.4%;
+  top: 11.71%;
+  right: 13.05%;
+  bottom: 86.32%;
+  left: 85.55%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.iconHelpCircle,
+.iconSettings,
+.leafIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.iconSettings {
+  height: 2.13%;
+  width: 1.51%;
+  top: 11.63%;
+  right: 9.94%;
+  bottom: 86.24%;
+  left: 88.55%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.leafIcon {
+  top: 114px;
+  left: 91px;
+  width: 30px;
+  height: 30px;
+}
+.frameChild {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-snow-200);
+  top: 0;
+  left: 0;
+  width: 188px;
+  height: 53px;
+}
+.frameChild,
+.home,
+.homeIcon {
+  position: absolute;
+}
+.home {
+  top: 17px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+}
+.homeIcon {
+  top: 14px;
+  left: 39px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.frameItem,
+.rectangleParent {
+  position: absolute;
+  width: 188px;
+  height: 53px;
+}
+.rectangleParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 192px;
+  left: 50px;
+}
+.frameItem {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+}
+.irrigation1 {
+  position: absolute;
+  top: 17px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-forestgreen);
+  text-align: left;
+}
+.cloudDrizzleIcon1 {
+  position: absolute;
+  top: 18px;
+  left: 39px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleGroup {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 245px;
+  left: 50px;
+}
+.frameInner,
+.rectangleContainer,
+.rectangleGroup {
+  cursor: pointer;
+  position: absolute;
+  width: 188px;
+  height: 53px;
+}
+.frameInner {
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow-200);
+}
+.rectangleContainer {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 298px;
+  left: 50px;
+}
+.thermometerIcon {
+  position: absolute;
+  height: 45.28%;
+  width: 12.77%;
+  top: 28.3%;
+  right: 66.49%;
+  bottom: 26.42%;
+  left: 20.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameButton,
+.rectangleParent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 351px;
+  left: 50px;
+  width: 188px;
+  height: 53px;
+}
+.rectangleParent1 {
+  top: 457px;
+}
+.abnormality {
+  position: absolute;
+  top: 14px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+}
+.frownIcon {
+  position: absolute;
+  height: 45.28%;
+  width: 12.77%;
+  top: 26.42%;
+  right: 66.49%;
+  bottom: 28.3%;
+  left: 20.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 404px;
+  left: 50px;
+  width: 188px;
+  height: 53px;
+}
+.yolofarm {
+  position: absolute;
+  top: 119px;
+  left: 131px;
+  font-size: var(--font-size-base);
+  color: var(--color-forestgreen);
+}
+.irrigationChild11 {
+  position: absolute;
+  top: 256px;
+  left: 234px;
+  border-radius: var(--br-mini);
+  width: 32px;
+  height: 31px;
+}
+.hanoiVietnam,
+.hoChiMinh,
+.logActivities {
+  position: absolute;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.logActivities {
+  top: 520px;
+  left: 811px;
+  font-size: var(--font-size-base);
+}
+.hanoiVietnam,
+.hoChiMinh {
+  top: 329px;
+  left: 1152px;
+  color: var(--color-gray-800);
+}
+.hanoiVietnam {
+  top: 354px;
+  left: 1198px;
+  font-size: var(--font-size-xs);
+  color: var(--color-forestgreen-100);
+}
+.irrigation2 {
+  position: absolute;
+  top: 119px;
+  left: 266px;
+  font-size: var(--font-size-8xl);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.irrigationChild12 {
+  position: absolute;
+  top: 115px;
+  left: 942px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(263.63deg, #dcd8d9, rgba(220, 216, 217, 0));
+  width: 97px;
+  height: 40px;
+}
+.iconSettings1 {
+  position: absolute;
+  height: 2.13%;
+  width: 1.51%;
+  top: 12.12%;
+  right: 32.79%;
+  bottom: 85.76%;
+  left: 65.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.settings {
+  position: absolute;
+  top: 126px;
+  left: 975px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  text-align: center;
+}
+.irrigation {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

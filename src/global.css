@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gotham:wght@300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,600;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-lato: Lato;
+  --pos-titles-h1: Gotham;
+  --font-roboto: Roboto;
+  --font-ibm-plex-sans: "IBM Plex Sans";
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --pos-titles-h1-size: 40px;
+  --pos-titles-h2-light-size: 32px;
+  --font-size-3xs: 10px;
+  --font-size-8xl: 27px;
+  --font-size-lgi: 19px;
+  --font-size-mini-9: 14.9px;
+  --font-size-mini: 15px;
+  --font-size-mid: 17px;
+  --font-size-sm: 14px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-gray-200: #1b1111;
+  --color-gray-300: #050000;
+  --color-gray-400: rgba(27, 17, 17, 0.5);
+  --color-gray-500: rgba(255, 255, 255, 0.5);
+  --color-gray-600: rgba(255, 255, 255, 0.75);
+  --color-gray-700: rgba(0, 0, 0, 0.8);
+  --color-gray-800: rgba(0, 0, 0, 0.6);
+  --color-gray-900: rgba(0, 0, 0, 0.5);
+  --color-gray-100: rgba(23, 20, 20, 0.5);
+  --color-snow-200: #fbf9f9;
+  --color-snow-100: rgba(255, 251, 251, 0.75);
+  --color-firebrick: #ac3d1a;
+  --color-firebrick-100: #b90606;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-forestgreen-100: #40b453;
+  --color-forestgreen: #22b74b;
+  --color-darkred-100: #a00a0a;
+  --color-darkred-200: #a10705;
+  --color-darkmagenta-100: #850da3;
+  --color-darkmagenta-200: #850da2;
+  --color-lightseagreen: #06aeb9;
+  --color-olive-100: #a0890d;
+  --color-darkgreen: #106b29;
+  --dark-color: #263238;
+  --primary-color: #855cf8;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(219, 218, 218, 0.5);
+  --color-royalblue: #0a4ccc;
+  --color-whitesmoke-100: #f6f6f6;
+  --color-whitesmoke-200: #efeaea;
+  --color-aliceblue: #e9ebf1;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-4xs: 9px;
+  --br-6xl: 25px;
+  --br-1470xl-1: 1489.1px;
+  --br-mini: 15px;
+  --br-2xs: 11px;
+  --br-smi: 13px;
+  --br-6xs: 7px;
+}

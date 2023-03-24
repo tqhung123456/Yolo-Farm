@@ -1,0 +1,1221 @@
+.image1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1453px;
+  height: 1816px;
+  object-fit: cover;
+}
+.temperatureChild {
+  position: absolute;
+  top: 82px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow-200);
+  width: 1339px;
+  height: 859px;
+}
+.seeMore,
+.seeMore1,
+.seeMore2 {
+  position: absolute;
+  top: 630px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-firebrick-100);
+}
+.seeMore1,
+.seeMore2 {
+  top: 688px;
+  color: var(--color-olive-100);
+}
+.seeMore2 {
+  top: 747px;
+}
+.updateNow {
+  top: 804px;
+  font-weight: 600;
+  color: var(--color-darkmagenta-100);
+}
+.i,
+.i1,
+.i2,
+.i3,
+.i4,
+.seeMore3,
+.updateNow {
+  position: absolute;
+  left: 1133px;
+  font-family: var(--font-roboto);
+}
+.seeMore3 {
+  top: 862px;
+  font-weight: 600;
+  color: var(--color-lightseagreen);
+}
+.i,
+.i1,
+.i2,
+.i3,
+.i4 {
+  top: 614px;
+}
+.i1,
+.i2,
+.i3,
+.i4 {
+  top: 671px;
+}
+.i2,
+.i3,
+.i4 {
+  top: 731px;
+}
+.i3,
+.i4 {
+  top: 788px;
+}
+.i4 {
+  top: 846px;
+}
+.temperatureItem {
+  position: absolute;
+  top: 833px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-lightseagreen);
+  width: 38px;
+  height: 38px;
+}
+.moistureIsHigher {
+  position: absolute;
+  top: 834px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.cloudDrizzleIcon {
+  position: absolute;
+  top: 840px;
+  left: 1089px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.temperatureInner {
+  position: absolute;
+  top: 394px;
+  left: 1150px;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(233.53deg, #003eb8, rgba(62, 125, 249, 0));
+  width: 160px;
+  height: 33px;
+}
+.manualIrrigating {
+  position: absolute;
+  top: 400px;
+  left: 1172px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: var(--color-gray-600);
+  text-align: center;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 499px;
+  left: 1150px;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(233.53deg, #dd7802, rgba(62, 125, 249, 0));
+  width: 160px;
+  height: 33px;
+}
+.manualHeating {
+  position: absolute;
+  top: 505px;
+  left: 1177px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: var(--color-gray-600);
+  text-align: center;
+}
+.temperatureChild1 {
+  position: absolute;
+  top: 446px;
+  left: 1150px;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(233.53deg, #06a11f, rgba(62, 125, 249, 0));
+  width: 160px;
+  height: 33px;
+}
+.manualLighting {
+  position: absolute;
+  top: 452px;
+  left: 1177px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: var(--color-gray-600);
+  text-align: center;
+}
+.iconMapPin {
+  position: absolute;
+  height: 1.5%;
+  width: 0.89%;
+  top: 34.6%;
+  right: 17.21%;
+  bottom: 63.9%;
+  left: 81.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications {
+  position: absolute;
+  top: 567px;
+  left: 1082px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.iconBell {
+  position: absolute;
+  height: 2.12%;
+  width: 1.37%;
+  top: 55.24%;
+  right: 5.87%;
+  bottom: 42.64%;
+  left: 92.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.temperatureChild2 {
+  position: absolute;
+  top: 601px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-firebrick-100);
+  width: 38px;
+  height: 38px;
+}
+.noResponseFrom {
+  position: absolute;
+  top: 602px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.temperatureChild3 {
+  position: absolute;
+  top: 659px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-olive-100);
+  width: 38px;
+  height: 38px;
+}
+.abnormalityDetected {
+  position: absolute;
+  top: 660px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.alertOctagonIcon {
+  position: absolute;
+  top: 665px;
+  left: 1088px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.temperatureChild4 {
+  position: absolute;
+  top: 718px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-olive-100);
+  width: 38px;
+  height: 38px;
+}
+.abnormalityDetected1 {
+  position: absolute;
+  top: 719px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.alertOctagonIcon1 {
+  position: absolute;
+  top: 724px;
+  left: 1088px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.temperatureChild5 {
+  position: absolute;
+  top: 775px;
+  left: 1082px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-darkmagenta-200);
+  width: 38px;
+  height: 38px;
+}
+.aNewUpdate {
+  position: absolute;
+  top: 776px;
+  left: 1133px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.arrowUpCircleIcon,
+.wifiOffIcon {
+  position: absolute;
+  top: 781px;
+  left: 1088px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.wifiOffIcon {
+  top: 608px;
+  left: 1089px;
+  width: 24px;
+  height: 24px;
+}
+.hanoiVietnam,
+.hoChiMinh {
+  position: absolute;
+  top: 329px;
+  left: 1152px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-800);
+  text-align: center;
+}
+.hanoiVietnam {
+  top: 354px;
+  left: 1198px;
+  font-size: var(--font-size-xs);
+  color: var(--color-forestgreen-100);
+}
+.temperatureChild6 {
+  position: absolute;
+  top: 358px;
+  left: 234px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-forestgreen);
+  width: 80px;
+  height: 40px;
+}
+.temperatureChild7 {
+  position: absolute;
+  top: 82px;
+  left: 238px;
+  background-color: var(--color-aliceblue);
+  width: 832px;
+  height: 859px;
+}
+.temperatureChild8 {
+  position: absolute;
+  top: 512px;
+  left: 798px;
+  border-radius: var(--br-smi);
+  background: linear-gradient(202.7deg, #dbd7d7, rgba(219, 215, 215, 0));
+  width: 241px;
+  height: 413px;
+}
+.noRecentActivity {
+  position: absolute;
+  top: 708px;
+  left: 863px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-900);
+  text-align: center;
+}
+.temperatureChild9 {
+  position: absolute;
+  top: 510px;
+  left: 265px;
+  border-radius: var(--br-smi);
+  background: linear-gradient(233.73deg, #f1baba, rgba(252, 155, 155, 0));
+  width: 511px;
+  height: 413px;
+}
+.information {
+  position: absolute;
+  top: 525px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.div,
+.heatingMode,
+.manual,
+.none,
+.scheduledTime,
+.temperature1,
+.upperThreshold {
+  position: absolute;
+  top: 558px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-200);
+}
+.temperature1 {
+  left: 299px;
+  font-weight: 600;
+}
+.div,
+.heatingMode,
+.manual,
+.none,
+.scheduledTime,
+.upperThreshold {
+  left: 586px;
+}
+.heatingMode,
+.manual,
+.none,
+.scheduledTime,
+.upperThreshold {
+  top: 600px;
+  left: 299px;
+  font-weight: 600;
+}
+.manual,
+.none,
+.scheduledTime,
+.upperThreshold {
+  left: 586px;
+}
+.none,
+.scheduledTime,
+.upperThreshold {
+  top: 642px;
+  left: 300px;
+}
+.none,
+.upperThreshold {
+  left: 587px;
+  color: var(--color-gray-400);
+}
+.upperThreshold {
+  top: 683px;
+  left: 299px;
+  color: var(--color-gray-200);
+}
+.i5 {
+  font-weight: 600;
+}
+.div1,
+.lowerThreshold {
+  position: absolute;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-200);
+}
+.div1 {
+  top: 683px;
+  left: 586px;
+  font-size: var(--font-size-xl);
+}
+.lowerThreshold {
+  top: 726px;
+  left: 299px;
+  font-weight: 600;
+}
+.div2,
+.heatingTimesLast,
+.lowerThreshold {
+  font-size: var(--font-size-xl);
+}
+.div2 {
+  position: absolute;
+  top: 726px;
+  left: 586px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-200);
+}
+.heatingTimesLast {
+  top: 769px;
+  left: 299px;
+}
+.heatingTimesLast,
+.mostRecentIrrigating,
+.times {
+  position: absolute;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.times {
+  top: 769px;
+  left: 586px;
+  font-size: var(--font-size-xl);
+}
+.mostRecentIrrigating {
+  top: 810px;
+  left: 300px;
+}
+.bad,
+.moistureCondition,
+.mostRecentIrrigating {
+  font-size: var(--font-size-xl);
+}
+.moistureCondition {
+  position: absolute;
+  top: 852px;
+  left: 299px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.bad {
+  top: 850px;
+  left: 586px;
+  font-weight: 800;
+  color: #bc0223;
+}
+.bad,
+.i7,
+.logActivities {
+  position: absolute;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+}
+.i7 {
+  top: 810px;
+  left: 586px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.logActivities {
+  top: 520px;
+  left: 811px;
+  font-size: var(--font-size-base);
+  text-align: center;
+}
+.temperatureChild10 {
+  position: absolute;
+  top: 176px;
+  left: 265px;
+  border-radius: var(--br-smi);
+  background: linear-gradient(220.98deg, #a9c5fc, rgba(169, 197, 252, 0));
+  width: 774px;
+  height: 314px;
+}
+.graph {
+  position: absolute;
+  top: 196px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  text-align: center;
+}
+.lineChartChild {
+  position: absolute;
+  top: 25.6px;
+  left: 3.04px;
+  width: 720.98px;
+  height: 258.9px;
+}
+.xAxisGridIcon,
+.xAxisGridIcon1,
+.xAxisGridIcon2 {
+  position: absolute;
+  top: 25.6px;
+  left: 28.22px;
+  width: 1px;
+  height: 233.41px;
+}
+.xAxisGridIcon1,
+.xAxisGridIcon2 {
+  left: 75.7px;
+}
+.xAxisGridIcon2 {
+  left: 124.16px;
+}
+.xAxisGridIcon3,
+.xAxisGridIcon4,
+.xAxisGridIcon5,
+.xAxisGridIcon6 {
+  position: absolute;
+  top: 25.6px;
+  left: 171.64px;
+  width: 1px;
+  height: 233.41px;
+}
+.xAxisGridIcon4,
+.xAxisGridIcon5,
+.xAxisGridIcon6 {
+  left: 220.09px;
+}
+.xAxisGridIcon5,
+.xAxisGridIcon6 {
+  left: 267.58px;
+}
+.xAxisGridIcon6 {
+  left: 316.03px;
+}
+.xAxisGridIcon10,
+.xAxisGridIcon7,
+.xAxisGridIcon8,
+.xAxisGridIcon9 {
+  position: absolute;
+  top: 25.6px;
+  left: 363.51px;
+  width: 1px;
+  height: 233.41px;
+}
+.xAxisGridIcon10,
+.xAxisGridIcon8,
+.xAxisGridIcon9 {
+  left: 411.96px;
+}
+.xAxisGridIcon10,
+.xAxisGridIcon9 {
+  left: 459.45px;
+}
+.xAxisGridIcon10 {
+  left: 506.93px;
+}
+.xAxisGridIcon11,
+.xAxisGridIcon12,
+.xAxisGridIcon13,
+.xAxisGridIcon14 {
+  position: absolute;
+  top: 25.6px;
+  left: 555.38px;
+  width: 1px;
+  height: 233.41px;
+}
+.xAxisGridIcon12,
+.xAxisGridIcon13,
+.xAxisGridIcon14 {
+  left: 602.87px;
+}
+.xAxisGridIcon13,
+.xAxisGridIcon14 {
+  left: 651.32px;
+}
+.xAxisGridIcon14 {
+  left: 698.81px;
+}
+.yAxisGridIcon,
+.yAxisGridIcon1,
+.yAxisGridIcon2,
+.yAxisGridIcon3 {
+  position: absolute;
+  top: 259.19px;
+  left: 29.2px;
+  width: 694.81px;
+  height: 1px;
+}
+.yAxisGridIcon1,
+.yAxisGridIcon2,
+.yAxisGridIcon3 {
+  top: 181.38px;
+}
+.yAxisGridIcon2,
+.yAxisGridIcon3 {
+  top: 103.58px;
+}
+.yAxisGridIcon3 {
+  top: 24.43px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 267.96px;
+  left: 50.15px;
+  display: inline-block;
+  width: 51.67px;
+  height: 17.04px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 147.4px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 243.14px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 337.35px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div7,
+.div8,
+.div9 {
+  left: 434.61px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div8,
+.div9 {
+  left: 528.82px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div9 {
+  left: 626.08px;
+}
+.div10,
+.div11,
+.div12,
+.div13 {
+  top: 252.31px;
+  left: 13.7px;
+  text-align: right;
+  width: 5.81px;
+  height: 16.1px;
+}
+.div11,
+.div12,
+.div13 {
+  top: 174.89px;
+  left: 0;
+  width: 21.27px;
+  height: 15.73px;
+}
+.div12,
+.div13 {
+  top: 97.55px;
+}
+.div13 {
+  top: 17.58px;
+}
+.lineIcon {
+  position: absolute;
+  top: 5.5px;
+  left: 28.23px;
+  width: 696.52px;
+  height: 249.85px;
+}
+.markerIcon,
+.markerIcon1,
+.markerIcon2 {
+  position: absolute;
+  top: 169.14px;
+  left: 25.33px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon1,
+.markerIcon2 {
+  top: 225px;
+  left: 48px;
+}
+.markerIcon2 {
+  top: 73px;
+  left: 72px;
+}
+.markerIcon3,
+.markerIcon4,
+.markerIcon5,
+.markerIcon6 {
+  position: absolute;
+  top: 127.55px;
+  left: 97.04px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon4,
+.markerIcon5,
+.markerIcon6 {
+  top: 189.26px;
+  left: 120.3px;
+}
+.markerIcon5,
+.markerIcon6 {
+  top: 40px;
+  left: 144px;
+}
+.markerIcon6 {
+  top: 175.84px;
+  left: 168.75px;
+}
+.markerIcon10,
+.markerIcon7,
+.markerIcon8,
+.markerIcon9 {
+  position: absolute;
+  top: 249.62px;
+  left: 192.97px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon10,
+.markerIcon8,
+.markerIcon9 {
+  top: 142px;
+  left: 217px;
+}
+.markerIcon10,
+.markerIcon9 {
+  top: 221px;
+  left: 240px;
+}
+.markerIcon10 {
+  top: 227px;
+  left: 264px;
+}
+.markerIcon11,
+.markerIcon12,
+.markerIcon13,
+.markerIcon14 {
+  position: absolute;
+  top: 208.04px;
+  left: 287.94px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon12,
+.markerIcon13,
+.markerIcon14 {
+  top: 68px;
+  left: 313px;
+}
+.markerIcon13,
+.markerIcon14 {
+  top: 222.8px;
+  left: 336.39px;
+}
+.markerIcon14 {
+  top: 46px;
+  left: 360px;
+}
+.markerIcon15,
+.markerIcon16,
+.markerIcon17,
+.markerIcon18 {
+  position: absolute;
+  top: 153.04px;
+  left: 383.88px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon16,
+.markerIcon17,
+.markerIcon18 {
+  top: 179.87px;
+  left: 408.1px;
+}
+.markerIcon17,
+.markerIcon18 {
+  top: 136.94px;
+  left: 432.33px;
+}
+.markerIcon18 {
+  top: 225.48px;
+  left: 456.56px;
+}
+.markerIcon19,
+.markerIcon20,
+.markerIcon21,
+.markerIcon22 {
+  position: absolute;
+  top: 91px;
+  left: 480px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon20,
+.markerIcon21,
+.markerIcon22 {
+  top: 201.33px;
+  left: 504.04px;
+}
+.markerIcon21,
+.markerIcon22 {
+  top: 166.45px;
+  left: 528.27px;
+}
+.markerIcon22 {
+  top: 0;
+  left: 552px;
+}
+.markerIcon23,
+.markerIcon24,
+.markerIcon25,
+.markerIcon26 {
+  position: absolute;
+  top: 14px;
+  left: 577px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.markerIcon24,
+.markerIcon25,
+.markerIcon26 {
+  top: 241.58px;
+  left: 599.98px;
+}
+.markerIcon25,
+.markerIcon26 {
+  top: 37px;
+  left: 624px;
+}
+.markerIcon26 {
+  top: 233.53px;
+  left: 647.46px;
+}
+.lineChart,
+.markerIcon27,
+.markerIcon28,
+.markerIcon29 {
+  position: absolute;
+  top: 175.84px;
+  left: 671.69px;
+  width: 7.75px;
+  height: 10.73px;
+}
+.lineChart,
+.markerIcon28,
+.markerIcon29 {
+  top: 146.33px;
+  left: 695.91px;
+}
+.lineChart,
+.markerIcon29 {
+  top: 162.43px;
+  left: 720.14px;
+}
+.lineChart {
+  top: 205px;
+  left: 279px;
+  width: 727.89px;
+  height: 285px;
+  text-align: center;
+  font-family: var(--font-roboto);
+}
+.temperatureChild11 {
+  position: absolute;
+  top: 115px;
+  left: 942px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(263.63deg, #dcd8d9, rgba(220, 216, 217, 0));
+  width: 97px;
+  height: 40px;
+}
+.iconSettings {
+  position: absolute;
+  height: 2.13%;
+  width: 1.51%;
+  top: 12.12%;
+  right: 32.79%;
+  bottom: 85.76%;
+  left: 65.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.michaelJackson,
+.settings {
+  position: absolute;
+  text-align: center;
+}
+.settings {
+  top: 126px;
+  left: 975px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.michaelJackson {
+  top: 303px;
+  left: 1173px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  color: var(--color-gray-300);
+}
+.avatarsIcon,
+.avatarsIcon1 {
+  position: absolute;
+  top: 116px;
+  left: 1317px;
+  width: 28px;
+  height: 28px;
+}
+.avatarsIcon1 {
+  top: 178px;
+  left: 1173px;
+  width: 113px;
+  height: 113px;
+}
+.iconHelpCircle {
+  height: 1.97%;
+  width: 1.4%;
+  top: 11.71%;
+  right: 13.05%;
+  bottom: 86.32%;
+  left: 85.55%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.iconHelpCircle,
+.iconSettings1,
+.leafIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.iconSettings1 {
+  height: 2.13%;
+  width: 1.51%;
+  top: 11.63%;
+  right: 9.94%;
+  bottom: 86.24%;
+  left: 88.55%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.leafIcon {
+  top: 114px;
+  left: 91px;
+  width: 30px;
+  height: 30px;
+}
+.frameChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow-200);
+  width: 188px;
+  height: 53px;
+  cursor: pointer;
+}
+.frameChild,
+.home,
+.homeIcon {
+  position: absolute;
+}
+.home {
+  top: 17px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-gray-300);
+  text-align: left;
+}
+.homeIcon {
+  top: 14px;
+  left: 39px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 192px;
+  left: 50px;
+  width: 188px;
+  height: 53px;
+}
+.irrigation {
+  position: absolute;
+  top: 17px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+}
+.cloudDrizzleIcon1 {
+  position: absolute;
+  top: 18px;
+  left: 39px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleGroup {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 245px;
+  left: 50px;
+}
+.frameChild1,
+.rectangleContainer,
+.rectangleGroup {
+  position: absolute;
+  width: 188px;
+  height: 53px;
+}
+.rectangleContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 298px;
+  left: 50px;
+}
+.frameChild1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+}
+.temperature2 {
+  position: absolute;
+  top: 17px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-forestgreen);
+  text-align: left;
+}
+.thermometerIcon {
+  position: absolute;
+  height: 45.28%;
+  width: 12.77%;
+  top: 28.3%;
+  right: 66.49%;
+  bottom: 26.42%;
+  left: 20.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameButton,
+.rectangleParent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 351px;
+  left: 50px;
+  width: 188px;
+  height: 53px;
+}
+.rectangleParent1 {
+  top: 457px;
+}
+.abnormality {
+  position: absolute;
+  top: 14px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+}
+.frownIcon {
+  position: absolute;
+  height: 45.28%;
+  width: 12.77%;
+  top: 26.42%;
+  right: 66.49%;
+  bottom: 28.3%;
+  left: 20.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 404px;
+  left: 50px;
+  width: 188px;
+  height: 53px;
+}
+.yolofarm {
+  position: absolute;
+  top: 119px;
+  left: 131px;
+  font-size: var(--font-size-base);
+  color: var(--color-forestgreen);
+}
+.temperatureChild12 {
+  position: absolute;
+  top: 256px;
+  left: 234px;
+  border-radius: var(--br-mini);
+  width: 32px;
+  height: 31px;
+}
+.temperature3 {
+  position: absolute;
+  top: 119px;
+  left: 266px;
+  font-size: var(--font-size-8xl);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+}
+.temperature {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

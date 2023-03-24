@@ -1,0 +1,117 @@
+.forgotPassword {
+  text-decoration: none;
+  position: absolute;
+  top: 656px;
+  left: 746px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 156px;
+  height: 20px;
+}
+.signUp {
+  color: var(--color-firebrick);
+}
+.dontHaveAnContainer,
+.next {
+  position: absolute;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  display: inline-block;
+}
+.dontHaveAnContainer {
+  text-decoration: none;
+  top: 439px;
+  left: 615px;
+  font-weight: 700;
+  width: 223px;
+  height: 32px;
+  cursor: pointer;
+  color: var(--color-black);
+}
+.next {
+  top: 10px;
+  left: 73px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-lato);
+  color: var(--color-snow-100);
+  text-align: center;
+  width: 47px;
+  height: 14px;
+}
+.vectorParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 706px;
+  left: 637px;
+  width: 193px;
+  height: 44px;
+}
+.welcome1Child,
+.welcome1Item {
+  position: absolute;
+  left: 548px;
+  border-radius: var(--br-11xl);
+  width: 351px;
+  height: 71px;
+}
+.welcome1Child {
+  top: 480px;
+  background-color: #c8c8c8;
+}
+.welcome1Item {
+  top: 575px;
+}
+.password,
+.userName {
+  border: 0;
+  display: flex;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  position: absolute;
+  top: 501px;
+  left: 637px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 700;
+  color: var(--color-gray-100);
+  text-align: left;
+  align-items: center;
+  width: 201px;
+  height: 32px;
+}
+.password {
+  top: 595px;
+}
+.flagIcon,
+.lockIcon {
+  position: absolute;
+  top: 501px;
+  left: 571px;
+  width: 33px;
+  height: 32px;
+  overflow: hidden;
+}
+.lockIcon {
+  top: 595px;
+}
+.welcome1 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(/public/welcome1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-firebrick);
+  font-family: var(--font-lato);
+}
